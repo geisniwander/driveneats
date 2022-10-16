@@ -174,7 +174,9 @@ body{
     line-height: 24px;
     color:white;
     z-index: 6;
-
+}
+.confirmacao{
+    background-color: rgb(91, 199, 28);
 }
 .borda-verde{
     border: 2px solid green;
