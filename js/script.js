@@ -26,7 +26,7 @@ function selecionaPrato(idItem){
     nomePrato=idItem.querySelector('.nome-item').innerHTML;
     valorPrato=idItem.querySelector('.preco-item').innerHTML;
     ativaBotao();
-    }
+}
     
 function selecionaBebida(idItem){
     const b_selecionado=document.querySelector(".bebida.borda-verde");

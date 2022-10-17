@@ -125,7 +125,6 @@ body{
     justify-content: center;
     z-index: 5;
 }
-
 .confirmacao{
     background-color:#32B72F;
 }
@@ -146,9 +145,8 @@ body{
 .escondido{
     display: none;
 }
-
 .botao{
-    width: 90%;
+    width: 20%;
     height: 60%;
     border-radius: 50px;
     font-size: 20px;
@@ -205,5 +203,8 @@ body{
     }
     .cartao{
         margin-top: 10%;
+    }
+    .botao{
+        width:80%;
     }
 }
